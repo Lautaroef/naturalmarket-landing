@@ -12,7 +12,7 @@ Built for a well-known health and nutrition company in Salta, Argentina (Wizz Nu
 
 ### Preview images
 
-<img src="https://github.com/Lautaroef/nft-marketplace/blob/main/assets/img/preview/1.png"/>
-<img src="https://github.com/Lautaroef/nft-marketplace/blob/main/assets/img/preview/2.png"/>
-<img src="https://github.com/Lautaroef/nft-marketplace/blob/main/assets/img/preview/3.png"/>
-<img src="https://github.com/Lautaroef/nft-marketplace/blob/main/assets/img/preview/4.png"/>
+<img src="https://raw.githubusercontent.com/Lautaroef/naturalmarket-landing/main/assets/img/preview/1.png"/>
+<img src="https://raw.githubusercontent.com/Lautaroef/naturalmarket-landing/main/assets/img/preview/2.png"/>
+<img src="https://raw.githubusercontent.com/Lautaroef/naturalmarket-landing/main/assets/img/preview/3.png"/>
+<img src="https://raw.githubusercontent.com/Lautaroef/naturalmarket-landing/main/assets/img/preview/4.png"/>

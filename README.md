@@ -1,4 +1,4 @@
-# Wizz NutriMarket
+# Wizz NaturalMarket
 
 Minimalist landing page oriented to the health and nutrition market.
 
